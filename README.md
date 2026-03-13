@@ -13,13 +13,13 @@ I build and deploy Computer Vision as a Service (CVaaS) systems that operate at 
 - **Computer Vision:** YOLOv8 / YOLO11, ByteTrack, BoTSORT, Pose Estimation, OpenCV
 - **Backend & Data Pipeline:** Python, Django, PostgreSQL, FastAPI, Node-RED, Redis, WebSockets, REST APIs
 - **Edge & Compute:** NVIDIA Jetson (Orin series), High-VRAM GPU Training Servers, RTSP Stream Processing
-
+<!--
 ### 📈 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syd-yaseen&show_icons=true&theme=radical&hide_border=true&title_color=00e5ff&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syd-yaseen&layout=compact&theme=radical&hide_border=true&title_color=00e5ff&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </div>
-
+-->
 ### 🔗 Connect
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/yaseen-thangal-a787a61b0)
 - **Venture:** [snowbell.ai](https://snowbelltech.com)

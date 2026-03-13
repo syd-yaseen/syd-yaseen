@@ -21,5 +21,5 @@ I build and deploy Computer Vision as a Service (CVaaS) systems that operate at 
 </div>
 -->
 ### 🔗 Connect
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/yaseen-thangal-a787a61b0)
+- **LinkedIn:** [yaseen-thangal](https://linkedin.com/in/yaseen-thangal-a787a61b0)
 - **Venture:** [snowbell.ai](https://snowbelltech.com)

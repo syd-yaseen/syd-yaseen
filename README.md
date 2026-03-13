@@ -1,4 +1,4 @@
-# Syed Yaseen | AI Solutions Architect & Founder
+# Syed Yaseen | AI Solutions Architect & Founding Engineer
 
 **Building Intelligence for Physical Reality.**
 
